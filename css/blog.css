@@ -1,0 +1,17 @@
+.second {
+  /* display: none; */
+  /* visibility: hidden; */
+}
+.reprehenderit {
+  border: 1px solid yellow;
+}
+.header {
+  height: 300px;
+  background-image: url('../HTML/img/ali.jpg');
+  background-repeat: no-repeat;
+  background: size 500px;
+}
+h3 {
+  font-size: 30px;
+  text-decoration: overline;
+}
